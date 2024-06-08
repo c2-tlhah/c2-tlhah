@@ -23,7 +23,11 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/muhammad-talha-ramzan/" target="_blank"></a>
 </div>
-
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/muhammad-talha-ramzan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c2-tlhah" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/muhammadtalharamzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="c2-tlhah" height="30" width="40" /></a>
+  </a>
+</div>
 <br/>
 <hr/>
 
