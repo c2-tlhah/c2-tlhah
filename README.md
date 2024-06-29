@@ -37,7 +37,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!-- Add animated contribution graph -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/c2-tlhah/c2-tlhah/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
