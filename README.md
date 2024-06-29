@@ -33,8 +33,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-![snake gif](https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg)
-    
+ 
+  ![Snake animation](https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg)
+ 
   <br/><br/><br/>
 </div>
 
