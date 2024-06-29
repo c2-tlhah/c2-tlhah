@@ -1,4 +1,4 @@
-name: c2-tlhhhhhhaa
+name: c2-tlhah WF
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
