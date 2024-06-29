@@ -2,56 +2,49 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Talha+Ramzan!;" />
 </h1>
 
-<h3 align="center">A passionate computer science student with a solid foundation in C++, and Python</h3>
+<h3 align="center">A passionate computer science student with a solid foundation in C++ and Python</h3>
 
 <br/>
 
 <div align="center">
  
-💻 Proficient in C++, Python and rapidly mastering Python for data engineering/datascience.
- 
-📊 Developing skills in data analysis, visualization, Big data handling and statistical modeling.
+💻 Proficient in C++ and Python, mastering data engineering and data science.
 
-📚 Currently expanding my expertise in Python and big data for data science.
+📊 Developing skills in data analysis, visualization, and big data handling.
 
-🤖 Diving into the fascinating world of AI and machine learning using spark.
+📚 Expanding expertise in Python for data science and big data.
 
-📧 Feel free to reach out for collaborations or discussions at any social media below!</a>.
+🤖 Exploring AI and machine learning using Spark.
+
+📧 Reach out for collaborations or discussions below!
 
 </div>
  
 <div align="center"> 
-
- <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/o21tlha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: c2.tlhah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-    
+ <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://instagram.com/o21tlha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="mailto:c2.tlhah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-</a>
-  </a>
-</div>
 <br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <!-- Add animated contribution graph -->
    
   ![Snake animation](https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg)
  
   <br/><br/><br/>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages, Frameworks, Tools ⚒️</h2>
 <br/>
 <div align="center">
 <p align="center"> 
-        <img src="https://skillicons.dev/icons?i=anaconda&theme=light" alt="anaconda" width="40" height="40"/>
+           <img src="https://skillicons.dev/icons?i=anaconda&theme=light" alt="anaconda" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="40" height="40"/>
         <img src="https://skillicons.dev/icons?i=kali&theme=light" alt="kali" width="40" height="40"/>]
     <img src="https://skillicons.dev/icons?i=neovim&theme=light" alt="neovim" width="40" height="40"/>
@@ -77,30 +70,21 @@
 
 <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="additional icon" width="40" height="40"/>
 
-
-  </p>
-
+</p>
 </div>
 
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
     
-  <!-- Add your GitHub stats and streak with animation -->
-<img width="390" height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2-tlhah&count_private=true&theme=react&border_radius=10&background=DEDEDE&stroke=000000&ring=FFFFFF&fire=666666&currStreakLabel=333333&sideNums=888888&currStreakNum=333333&dates=888888&sideLabels=333333" alt="c2-tlhah"/>
+<img width="390" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2-tlhah&count_private=true&theme=react&border_radius=10&background=DEDEDE&stroke=000000&ring=FFFFFF&fire=666666&currStreakLabel=333333&sideNums=888888&currStreakNum=333333&dates=888888&sideLabels=333333" alt="c2-tlhah streak stats"/>
    
-   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="GitHub Readme Stats Repo" /> -->
+<img width="390" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=1A1A1A,444444,F4F1DE,A7BACB&title_color=000000&text_color=000000" alt="c2-tlhah GitHub stats"/>
 
- <img width="390" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=1A1A1A,444444,F4F1DE,A7BACB&title_color=000000&text_color=000000" alt="c2-tlhah" />
+<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2-tlhah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=DEG,FFC0CB,87CEEB&title_color=000000&text_color=000000" alt="top langs"/>
 
-   <img width="325"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2-tlhah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=DEG,FFC0CB,87CEEB&title_color=000000&text_color=000000" alt="top langs" />
-
-  <br/>
-
-  <!-- Add your most used languages with animation -->
-      
 </div>
 
 <br/><br/>
