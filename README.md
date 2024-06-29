@@ -16,16 +16,18 @@
 
 🤖 Diving into the fascinating world of AI and machine learning using spark.
 
-📧 Feel free to reach out for collaborations or discussions at <a href="mailto:c2tlhah@gmail.com">c2tlhah@gmail.com</a>.
+📧 Feel free to reach out for collaborations or discussions at any social media below!</a>.
 
 </div>
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/muhammad-talha-ramzan/" target="_blank"></a>
+
+ <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/o21tlha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: c2.tlhah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+    
 </div>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/muhammad-talha-ramzan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c2-tlhah" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/muhammadtalharamzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="c2-tlhah" height="30" width="40" />
 
 </a>
   </a>
@@ -37,8 +39,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!-- Add animated contribution graph -->
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/c2-tlhah/c2-tlhah/output/github-contribution-grid-snake.svg" />
-  
+   
+  ![Snake animation](https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg)
+ 
   <br/><br/><br/>
 </div>
 
