@@ -1,5 +1,6 @@
 <img src="c2.svg"/>
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Talha+Ramzan!;" />
 </h1>
@@ -26,6 +27,11 @@
  <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://www.instagram.com/o21tlha?igsh=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="mailto:c2.tlhah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <p align="center">
+    <a href="https://o21ex.me" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
+    </a>
+</p>
 </div>
 
 <br/>
