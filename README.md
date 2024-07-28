@@ -91,7 +91,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-    
 <img width="390" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2-tlhah&count_private=true&theme=react&border_radius=10&background=DEDEDE&stroke=000000&ring=FFFFFF&fire=666666&currStreakLabel=333333&sideNums=888888&currStreakNum=333333&dates=888888&sideLabels=333333" alt="c2-tlhah streak stats"/>
    
 <img width="390" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=1A1A1A,444444,F4F1DE,A7BACB&title_color=000000&text_color=000000" alt="c2-tlhah GitHub stats"/>
