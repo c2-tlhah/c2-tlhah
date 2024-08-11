@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://o21ex.me" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
+        <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio: o21ex.me">
     </a>
 </div>
 
