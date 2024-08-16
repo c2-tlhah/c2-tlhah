@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate Computer Science student with a solid foundation in C++ and Python</h3>
-
 ---
 
 ### 💻 Expertise and Interests
