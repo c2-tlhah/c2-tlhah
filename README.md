@@ -4,7 +4,9 @@
 
 <h3 align="center">A passionate Computer Science student with a solid foundation in C++ and Python</h3>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+
+<p align="center"><a href="https://github.com/c2-tlhah"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### 💻 Expertise and Interests
 
@@ -14,7 +16,9 @@
 - **Exploring:** Artificial Intelligence and Machine Learning using Spark.
 - **Connect:** Feel free to reach out for collaborations or discussions!
 
----
+
+
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
 ### 🌐 Connect with Me
 
@@ -33,7 +37,7 @@
     </a>
 </div>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
 ### 🐍 GitHub Contributions
 
@@ -45,7 +49,7 @@
     </picture>
 </div>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
 ### ⚒️ Tools and Technologies
 
@@ -80,7 +84,7 @@
 
 </div>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
 ### 📊 GitHub Stats
 
@@ -89,7 +93,7 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="c2-tlhah stats"/>
 </div>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 
 ### 🛠️ Contribution Activity
 
@@ -99,7 +103,8 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2-tlhah&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
 </div>
 
----
+<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
 BTC(BEP20) 
-```
+
+``` 
 0x8b560e502b556d858b7fdbd090a69d616d358edd
