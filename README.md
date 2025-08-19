@@ -1,102 +1,58 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Computer Science student with a solid foundation in C++ and Python</h3>
+<h3 align="center">Computer Science student focused on Data Engineering, Big Data Systems, and AI-driven solutions.</h3>
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+---
 
+## Professional Summary
 
-### 💻 Expertise and Interests
+➤ Strong foundation in **C++** and **Python**, with a focus on algorithms and data structures  
+➤ Exploring **Data Engineering**, **Big Data Architecture**, and **Cloud-based analytics**  
+➤ Experienced with **ETL pipelines**, **stream processing**, and **distributed systems**  
+➤ Passionate about integrating **AI/ML** into scalable production workflows  
+➤ Committed to writing clean, efficient code and solving real-world data problems
 
-- **Proficient in:** C++ and Python, mastering data engineering and data science.
-- **Skills:** Data analysis, visualization, and big data handling.
-- **Focused on:** Expanding expertise in Python for data science and big data applications.
-- **Exploring:** Artificial Intelligence and Machine Learning using Spark.
-- **Connect:** Feel free to reach out for collaborations or discussions!
+---
 
-
-
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
-
-### 🌐 Connect with Me
+## Technical Skills
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/o21tlha" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:c2.tlhah@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://o21ex.me" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
-    </a>
-</div>
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
-
-### 🐍 GitHub Contributions
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="https://github.com/c2-tlhah/c2-tlhah/blob/output/github-contribution-grid-snake.svg" />
-    </picture>
-</div>
-
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
-
-### ⚒️ Tools and Technologies
-
-<div align="center">
-   
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src=" 	https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+---
 
-### 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
-    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=c2-tlhah&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" alt="c2-tlhah streak stats"/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="c2-tlhah stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&border_radius=8&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c2-tlhah&theme=react&border_radius=8&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" width="400" alt="GitHub Streak" />
 </div>
 
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
+---
 
-### 🛠️ Contribution Activity
+## Contact Information
 
 <div align="center">
-    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c2-tlhah&theme=vue&background=1F2937" alt="Contribution Activity"/>
-    <br/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2-tlhah&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
+  <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:c2.tlhah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-
-<img src="https://github.com/c2-tlhah/c2-tlhah/blob/main/2nd%20arrow.gif">
