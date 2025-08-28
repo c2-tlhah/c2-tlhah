@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-➤ Strong foundation in **Python**, with a focus on ML and DE Frameworks 
+➤ Strong foundation in **Python**, with a focus on ML and DE Frameworks
 ➤ Exploring **Data Engineering**, **Big Data Architecture**, and **Cloud-based analytics**  
 ➤ Experienced with **ETL pipelines**, **stream processing**, and **distributed systems**  
 ➤ Passionate about integrating **AI/ML** into scalable production workflows  
