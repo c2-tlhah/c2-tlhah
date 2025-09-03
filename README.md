@@ -51,11 +51,11 @@
   />
   
   <!-- GitHub Streak -->
-<!--  <img 
+ <img 
     src="https://streak-stats.demolab.com?user=c2-tlhah&theme=react&border_radius=8&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" 
     width="400" 
     alt="GitHub Streak" 
-  /> -->
+  />
 
 </div>
 
