@@ -38,27 +38,28 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </div>
+<!--
+  ---
 
----
-
-<div align="center">
+  <div align="center">
+    
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&border_radius=8&bg_color=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" 
+      width="400" 
+      alt="GitHub Stats" 
+    />
+    
+    <!-- GitHub Streak -->
+   <img 
+      src="https://streak-stats.demolab.com?user=c2-tlhah&theme=react&border_radius=8&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" 
+      width="400" 
+      alt="GitHub Streak" 
+    />
   
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=c2-tlhah&count_private=true&show_icons=true&theme=react&border_radius=8&bg_color=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" 
-    width="400" 
-    alt="GitHub Stats" 
-  />
+  </div>
   
-  <!-- GitHub Streak -->
- <img 
-    src="https://streak-stats.demolab.com?user=c2-tlhah&theme=react&border_radius=8&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6" 
-    width="400" 
-    alt="GitHub Streak" 
-  />
-
-</div>
-
+-->
 
 ---
 
