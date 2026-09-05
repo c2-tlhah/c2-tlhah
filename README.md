@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">focused on Data Engineering, Big Data Systems, and AI-driven solutions.</h3>
+<h3 align="center">A kid focused on Data Engineering, Big Data Systems, and AI-driven solutions. </h3>
 
 ---
 
